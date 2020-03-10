@@ -1,7 +1,7 @@
 # <a href="https://github.com/rhildred/nodeAsyncGameBot" target="_blank">nodeAsyncGameBot</a>
 #Prathima Yarlagadda
 
-I got the user interface for the web from my Professor of mine, Richard Hildred.
+I got the user interface for the web from Professor of mine, Richard Hildred.
 
 A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and OverAndUnder.js.
 
